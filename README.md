@@ -25,5 +25,13 @@
 The synthetic wastewater used in this study was derived from Beijing groundwater, in which the NO3- concentration fluctuated between 1.2 and 5.3 mg/L throughout our study. Results showed negligible nitrification but NH4- adsorption occurred during the first 35 d of the Start-up stage. Nitrification (with accumulated NO2-) began contributing to  removal in the second half of the Start-up period. Results also that the increased C/N ratio had a significant positive impact on TN removal (One-way ANOVA analysis, P < 0.05). However, this positive effect became attenuated when insufficient nitrification became the limiting factor for TN removal under a C/N ratio exceeding six.
 
 <p align="center">
-  <img src="/figures/figure 2.jpg" alt="Nitrogen removal in Constructed Wetland" width="450">
+  <img src="/figures/figure 2.jpg" alt="Nitrogen removal in Constructed Wetland" width="400">
 </p>
+
+### Absolute abundance of microbial communities and functional genes
+The absolute abundance of bacterial 16S rRNA, archaeal 16S rRNA, anammox bacterial 16S rRNA, amoA, nxrA, narG, nirK, nirS, and nosZ were quantified 8 times during the entire operation period to determine their dynamic population shifts. The anammox bacterial 16S rRNA, amoA gene, and nxrA gene, which are the three functional genes involved in NH4+ transformation. A clear trend among narG, nirK, and nosZ genes provided direct evidence of an ecological association and symbiotic relationship among the denitrifying communities.
+
+<p align="center">
+  <img src="/figures/figure 3.jpg" alt="Nitrogen removal in Constructed Wetland" width="450">
+</p>
+
