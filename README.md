@@ -39,5 +39,5 @@ The absolute abundance of bacterial 16S rRNA, archaeal 16S rRNA, anammox bacteri
 Pearson correlation coefficients between anammox-narG, anammox-nirK, anammox-nosZ, narG-nirK, narG-nosZ, nirK-nosZ, and nirS-nosZ all exceeded r = 0.72 (P < 0.05), confirming an interaction and ecological association among the nitrogen transformation microbial communities. The potential explanations for the associated enrichment of anammox, narG, nirK, and nosZ were their similar environmental adaptations, and interrelated but distinct ecological niches. The associated enrichment of anammox, narG, nirK, and nosZ genes demonstrated that multiple (anammox and denitrification) and complete (reduction to N2) nitrogen removal pathways successfully developed in the TF CW, assuring functional stability in nitrogen removal performance and effective control of N2O greenhouse gas emission.
 
 <p align="center">
-  <img src="/figures/table 2.png" alt="Pearson correlation coefficients between nitrogen transformation genes" width="450">
+  <img src="/figures/table 2.png" alt="Pearson correlation coefficients between nitrogen transformation genes" width="600">
 </p>
