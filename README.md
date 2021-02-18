@@ -5,7 +5,7 @@
 ## Abstract
 
 <p align="center">
-  <img src="/figures/TOC.jpg" alt="Nitrogen removal in Constructed Wetland" width="600">
+  <img src="/figures/TOC.jpg" alt="Nitrogen removal in Constructed Wetland" width="700">
 </p>
 
 - The present study explored treatment performance and nitrogen removal mechanisms of a novel tidal flow constructed wetland (TF CW) under C/N ratios ranging from two to 12. High and stable COD (83–95%), (63–80%), and TN (50–82%) removal efficiency were simultaneously achieved in our single-stage TF CW without costly aeration. 
