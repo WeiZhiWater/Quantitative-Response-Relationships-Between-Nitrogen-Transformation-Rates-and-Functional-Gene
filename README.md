@@ -41,3 +41,11 @@ Pearson correlation coefficients between anammox-narG, anammox-nirK, anammox-nos
 <p align="center">
   <img src="/figures/table 2.png" alt="Pearson correlation coefficients between nitrogen transformation genes" width="600">
 </p>
+
+### Nitrogen transformation pathway with functional genes
+NH4+ transformation rate was collectively determined by amoA, nxrA, anammox, narG, nirS, nirK, and nosZ; and TN removal was primarily influenced by amoA and anammox.
+
+<p align="center">
+  <img src="/figures/figure 4.jpg" alt="Nitrogen transformation pathway with functional genes" width="600">
+</p>
+
